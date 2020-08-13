@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/lenovo/Desktop/allCrypto/Adversarial-Neural-Cryptography/models/alice_bob.ckpt"
+all_model_checkpoint_paths: "/home/lenovo/Desktop/allCrypto/Adversarial-Neural-Cryptography/models/alice_bob.ckpt"
