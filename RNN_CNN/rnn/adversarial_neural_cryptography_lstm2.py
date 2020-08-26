@@ -187,7 +187,7 @@ abelosses = []
 boblosses = []
 evelosses = []
 
-n_epochs = 20
+n_epochs = 2000
 batch_size = 512
 n_batches = m_train // batch_size
 
