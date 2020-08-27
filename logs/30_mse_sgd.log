@@ -1,0 +1,32 @@
+Training for 30 epochs with 256 batches of size 256
+Epoch   0:  99% | abe: 2.620 | eve: 2.614 | bob: 2.460
+Epoch   1:  99% | abe: 1.190 | eve: 1.851 | bob: 0.890
+Epoch   2:  99% | abe: 0.527 | eve: 2.247 | bob: 0.329
+Epoch   3:  99% | abe: 0.327 | eve: 2.593 | bob: 0.198
+Epoch   4:  99% | abe: 0.235 | eve: 2.739 | bob: 0.130
+Epoch   5:  99% | abe: 0.180 | eve: 2.824 | bob: 0.089
+Epoch   6:  99% | abe: 0.117 | eve: 2.905 | bob: 0.039
+Epoch   7:  99% | abe: 0.100 | eve: 2.942 | bob: 0.026
+Epoch   8:  99% | abe: 0.081 | eve: 3.025 | bob: 0.019
+Epoch   9:  99% | abe: 0.077 | eve: 3.030 | bob: 0.016
+Epoch  10:  99% | abe: 0.065 | eve: 3.124 | bob: 0.014
+Epoch  11:  99% | abe: 0.050 | eve: 3.227 | bob: 0.012
+Epoch  12:  99% | abe: 0.049 | eve: 3.257 | bob: 0.012
+Epoch  13:  99% | abe: 0.053 | eve: 3.231 | bob: 0.014
+Epoch  14:  99% | abe: 0.046 | eve: 3.275 | bob: 0.012
+Epoch  15:  99% | abe: 0.044 | eve: 3.275 | bob: 0.009
+Epoch  16:  99% | abe: 0.040 | eve: 3.329 | bob: 0.010
+Epoch  17:  99% | abe: 0.040 | eve: 3.335 | bob: 0.009
+Epoch  18:  99% | abe: 0.037 | eve: 3.347 | bob: 0.008
+Epoch  19:  99% | abe: 0.029 | eve: 3.427 | bob: 0.007
+Epoch  20:  99% | abe: 0.044 | eve: 3.420 | bob: 0.021
+Epoch  21:  99% | abe: 0.039 | eve: 3.262 | bob: 0.004
+Epoch  22:  99% | abe: 0.035 | eve: 3.317 | bob: 0.004
+Epoch  23:  99% | abe: 0.036 | eve: 3.326 | bob: 0.005
+Epoch  24:  99% | abe: 0.047 | eve: 3.236 | bob: 0.009
+Epoch  25:  99% | abe: 0.034 | eve: 3.324 | bob: 0.005
+Epoch  26:  99% | abe: 0.028 | eve: 3.411 | bob: 0.005
+Epoch  27:  99% | abe: 0.023 | eve: 3.455 | bob: 0.003
+Epoch  28:  99% | abe: 0.033 | eve: 3.354 | bob: 0.005
+Epoch  29:  99% | abe: 0.036 | eve: 3.349 | bob: 0.007
+Training finished.
