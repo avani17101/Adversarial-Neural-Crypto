@@ -1,10 +1,5 @@
 # ADVERSARIAL NEURAL CRYPTOGRAPHY
 
-## NOTES 
-
-- Keep Restarting runtime until you get a Turing architecture GPU(Tesla V4) not a K80       
-
-        physical_device_desc: "device: 0, name: Tesla T4, pci bus id: 0000:00:04.0, compute capability: 7.5" 
 
 
 ## UPDATES 
@@ -12,6 +7,16 @@
 - MIT UTRC Poster -- 7Th AUG 
 - AAAI Abstract -- September 18, 2020 (11:59 PM PDT): Electronic Abstracts Due    https://aaai.org/Conferences/AAAI-21/student-abstract-call/
 - Paper ot https://www.nature.com/natmachintell 
+
+
+
+## NOTES 
+
+- Keep Restarting runtime until you get a Turing architecture GPU(Tesla V4) not a K80       
+
+        physical_device_desc: "device: 0, name: Tesla T4, pci bus id: 0000:00:04.0, compute capability: 7.5" 
+
+
 
 
 
