@@ -10,7 +10,7 @@
 ## UPDATES 
 
 - MIT UTRC Poster -- 7Th AUG 
-- AAAI Abstract -- September 18, 2020 (11:59 PM PDT): Electronic Abstracts Due
+- AAAI Abstract -- September 18, 2020 (11:59 PM PDT): Electronic Abstracts Due    https://aaai.org/Conferences/AAAI-21/student-abstract-call/
 - Paper ot https://www.nature.com/natmachintell 
 
 
