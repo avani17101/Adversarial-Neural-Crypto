@@ -1,9 +1,37 @@
 # ADVERSARIAL NEURAL CRYPTOGRAPHY
 
+## NOTES 
+
+- Keep Restarting runtime until you get a Turing architecture GPU(Tesla V4) not a K80       
+
+        physical_device_desc: "device: 0, name: Tesla T4, pci bus id: 0000:00:04.0, compute capability: 7.5" 
+
+
+## UPDATES 
+
+- MIT UTRC Poster -- 7Th AUG 
+- AAAI Abstract -- September 18, 2020 (11:59 PM PDT): Electronic Abstracts Due
+- Paper ot https://www.nature.com/natmachintell 
 
 
 
-## CURRENT WORK
+
+
+
+
+
+
+
+
+
+
+
+
+
+ARCHIVED 
+-----------
+
+
 1. Change in the NN model for Adversaries(s) and Alice/Bob 
     1. filter size,batch size, learning, loss fxn, Key size<< plaintext(round/block cipher)
     2. PRNG @RISHABH C 
@@ -23,6 +51,20 @@
     4. Fxn Dist XOR
     
 4. RNN Viz @Pranav K
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 https://github.com/HendrikStrobelt/LSTMVis
 
